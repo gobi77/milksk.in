@@ -23,10 +23,10 @@
 define('DB_NAME', 'wedine_wrdp14');
 
 /** MySQL database username */
-define('DB_USER', 'wedine_wrdp14');
+define('DB_USER', 'root');
 
 /** MySQL database password */
-define('DB_PASSWORD', '76BUF4yzGi3vMIO');
+define('DB_PASSWORD', '');
 
 /** MySQL hostname */
 define('DB_HOST', 'localhost');
@@ -87,5 +87,3 @@ if ( !defined('ABSPATH') )
 
 /** Sets up WordPress vars and included files. */
 require_once(ABSPATH . 'wp-settings.php');
-
-
