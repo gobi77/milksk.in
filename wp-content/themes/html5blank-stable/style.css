@@ -305,3 +305,13 @@ a img.aligncenter {
 		page-break-after:avoid;
 	}
 }
+
+/* Custom Styles Author Gobi */
+
+#mksn .full-container {
+	width: 100vw;
+	height: 100vh;
+}
+#mksn .header {
+	
+}
