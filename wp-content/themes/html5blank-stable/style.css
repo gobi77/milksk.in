@@ -16,6 +16,8 @@
 \*------------------------------------*/
 
 /* global box-sizing */
+@import 'styles/css/style.css';
+
 *,
 *:after,
 *:before {
@@ -307,11 +309,3 @@ a img.aligncenter {
 }
 
 /* Custom Styles Author Gobi */
-
-#mksn .full-container {
-	width: 100vw;
-	height: 100vh;
-}
-#mksn .header {
-	
-}
